@@ -1,0 +1,2 @@
+Main-Class: com.frauddetection.Main
+Class-Path: lib/mysql-connector-j-8.3.0.jar lib/flatlaf-3.4.1.jar

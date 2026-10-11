@@ -1,0 +1,14 @@
+target/
+*.class
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.log
+*.tmp
+config.properties
+!config.properties.example
+.env
+!lib/*.jar

@@ -1,0 +1,19 @@
+# ===================================================
+# Database Configuration for AI Fraud Detection System
+# Copy this file to config.properties and update credentials
+# ===================================================
+
+# MySQL Database JDBC URL
+# Format: jdbc:mysql://<host>:<port>/<database>?params
+db.url=jdbc:mysql://localhost:3306/fraud_detection_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+
+# Database Username (default MySQL user is usually 'root')
+db.user=root
+
+# Database Password (replace with your local MySQL password)
+db.password=root
+
+# Connection Pool / Driver settings
+db.driver=com.mysql.cj.jdbc.Driver
+db.pool.maxActive=10
+db.pool.timeoutMs=5000
