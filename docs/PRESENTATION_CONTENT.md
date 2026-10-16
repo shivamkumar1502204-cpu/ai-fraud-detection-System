@@ -155,7 +155,7 @@ This guide outlines a professional 12-slide presentation structure designed for 
 
 ---
 
-### Slide 12: Summary, Future Enhancements & Q&A
+### Slide 12: Summary, Future Enhancements 
 - **Summary**:
   - Complete, functional, 30-mark rubric compliant Java GUI application.
   - Zero mock data; full integration of Swing, MySQL, JDBC, Multithreading, and OOP.
@@ -163,5 +163,4 @@ This guide outlines a professional 12-slide presentation structure designed for 
   - Integrate ONNX Java Runtime for pre-trained Random Forest/XGBoost ML models.
   - Multi-factor SMS/Email OTP verification dispatch for SUSPICIOUS transactions.
   - Distributed Kafka event streaming for multi-bank consortium fraud intelligence.
-- **Open for Questions**:
-  - "Thank you for your time. We welcome any questions from the panel!"
+
