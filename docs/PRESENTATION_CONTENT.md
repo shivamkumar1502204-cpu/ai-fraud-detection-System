@@ -1,6 +1,6 @@
-# University Presentation Slide Deck: AI Powered Fraud Detection System
+# Presentation Slide Deck: AI Powered Fraud Detection System
 
-This guide outlines a professional 12-slide presentation structure designed for university project defense, live evaluation, and viva voce examination.
+This guide outlines a professional 12-slide presentation structure designed for  project defense, live evaluation.
 
 ---
 
